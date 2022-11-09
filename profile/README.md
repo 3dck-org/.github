@@ -6,5 +6,5 @@ Demo: https://3dck-org.github.io/trip-planner-angular-app/
 
 👩‍💻 Useful resources - :( 
 
-🍿 Fun fact - we love drink beer 
+🍿 Fun fact - we love drink beer and girls so much
 
